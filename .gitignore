@@ -1,0 +1,11 @@
+# Ignore datasets
+dataset/
+dataset_blood_group/
+
+# Ignore image files
+*.BMP
+*.bmp
+*.tif
+*.tiff
+*.jpg
+*.png
